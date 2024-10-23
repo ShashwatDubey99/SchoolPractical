@@ -9,7 +9,7 @@ with open("csv_files/13users.csv","w") as f:
 
 def display_1_coloumn(coloumn):
     try: 
-      with open("csv_files/users.csv","r") as f:
+      with open("csv_files/13users.csv","r") as f:
           reader = csv.reader(f)
           for row in reader:
               print(row[coloumn-1])

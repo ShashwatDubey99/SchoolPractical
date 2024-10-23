@@ -8,7 +8,7 @@ with open("csv_files/14users.csv","w") as f:
     writer.writerow(["sunny","sunny123"])
 
 def auth(username,password):
-    with open("csv_files/users.csv","r") as f:
+    with open("csv_files/14users.csv","r") as f:
         reader = csv.reader(f)
         for row in reader:
             if row[0] == username and row[1] == password:
@@ -22,7 +22,7 @@ while True:
     if choice == 1:
         username = input("Enter Username: ")
         password = input("Enter Password: ")
-        with open("users.csv","a") as f:
+        with open("csv_files/14users.csv","a") as f:
             writer = csv.writer(f)
             writer.writerow([username,password])
     if choice == 2:
