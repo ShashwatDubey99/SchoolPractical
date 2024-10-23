@@ -1,6 +1,6 @@
-# Python Mini Projects
+# School CS Praticals  
 
-This repository contains a collection of mini projects in Python. Each project is a standalone Python script that demonstrates a specific concept or technique.
+All of the programs in this repo can be done using **much less** code but for some reason maybe *teacher*  want that to be *easy to read and self explainatary in their way* 
 
 ## Projects
 
