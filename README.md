@@ -1,6 +1,6 @@
 # School CS Praticals  
 
-All of the programs in this repo can be done using **much less** code but for some reason maybe *teacher*  want that to be *easy to read and self explainatary in their way* 
+All of the programs in this repo can be done using **much less** code but for some reason maybe *teacher*  want that to be *easy to read and self explainatary in **their way*** 
 
 ## Projects
 
